@@ -1,0 +1,1 @@
+This repository contains a PostgreSQL database that encompasses detailed information about planets, moons, and galaxies. The database is designed to provide a comprehensive reference for astronomical data, including specific details on celestial objects and their characteristics.
